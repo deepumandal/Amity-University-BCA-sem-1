@@ -18,4 +18,4 @@ It performs the following five basic operations for converting raw input data in
 
 - **Controlling:** It is like the brain—it manages and directs the activities of the other parts of the computer. The control unit oversees the flow of data and instructions within the CPU (Central Processing Unit) and coordinates the actions of the entire computer system. The control unit interprets instructions from the computer's memory, decodes them, and then executes or carries out those instructions by directing the other parts of the computer to perform specific tasks.
 
-![Basic Computer Organization](./BasicComputerOrganization.png.jpg)
+![Basic Computer Organization](./BasicComputerOrganization.png)
