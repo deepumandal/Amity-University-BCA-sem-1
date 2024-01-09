@@ -1,7 +1,7 @@
-#include <stdio.h>
+#include <stdio.h> // <-- preprocessor directives
 
 int main()
 {
-    printf("hello from c");
+    printf("hello world\n");
     return 0;
 }
