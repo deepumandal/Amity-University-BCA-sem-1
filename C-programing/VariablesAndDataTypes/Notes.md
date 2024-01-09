@@ -76,7 +76,7 @@
         return 0;
     ```
 
-- ""char:** 
+- **char:** 
     - this variable store's every character under ''.
     - `''`  tells that the value be stored is only single character only.
     *for example*
