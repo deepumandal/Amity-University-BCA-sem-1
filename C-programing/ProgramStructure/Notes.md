@@ -86,4 +86,4 @@ In C programming, format specifiers are used with input and output functions lik
 
 A program that converts c code to binary format fo that computer hardware can understand
 
-![./compilation/png](images/compilation)
+![./compilation.png](images/compilation)
